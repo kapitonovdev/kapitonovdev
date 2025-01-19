@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kapitonovdev  
+# 👋 Hi, I’m Pavel Kapitonov.
 
 Welcome to my corner of the internet 🎨💻  
 I’m a web developer with a passion for building **user-friendly**, **functional**, and **visually appealing websites**. My journey began with freelancing, where I transformed ideas into dynamic and scalable web solutions. 🚀  
